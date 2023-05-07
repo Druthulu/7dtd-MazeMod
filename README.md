@@ -59,7 +59,8 @@
             Only CompoPack prefabs used
             No repeats, only one of each POI in the whole game
         The maze walls are Wasteland Biome
-            ![MazeScreenshot6](https://user-images.githubusercontent.com/50529377/236704884-124afa75-9160-4336-a487-e9c350fb1655.jpg) You will get Radidated if you try to tunnel or climb over the walls. Instant Death. So don't try to cheat.
+            ![MazeScreenshot6](https://user-images.githubusercontent.com/50529377/236704884-124afa75-9160-4336-a487-e9c350fb1655.jpg)
+            You will get Radidated if you try to tunnel or climb over the walls. Instant Death. So don't try to cheat.
 
 ![MazeScreenshot5](https://user-images.githubusercontent.com/50529377/236704876-3d76b919-7676-47db-bbfb-978bc791bef1.jpg)
 
