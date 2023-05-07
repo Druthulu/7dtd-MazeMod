@@ -1,0 +1,7 @@
+<configs>
+	<set xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='WildGameForest']/@maxcount">2</set>
+    <set xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='EnemyAnimalsForest']/@maxcount">2</set>
+    <set xpath="/spawning/biome[@name='wasteland']/spawn[@entitygroup='WildGameForest']/@maxcount">0</set>
+    <set xpath="/spawning/biome[@name='wasteland']/spawn[@entitygroup='EnemyAnimalsWasteland']/@maxcount">0</set>
+    <remove xpath="/spawning/biome[@name='wasteland']"/>
+</configs>

@@ -1,0 +1,5 @@
+<configs>
+	<set xpath="/progression/level[@exp_to_level='10000']/@exp_to_level">5000</set>
+	<set xpath="/progression/level[@skill_points_per_level='1']/@skill_points_per_level">3</set>
+	<set xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">toolForgeCrucible,autoTurret,shotgunTurretSlug</set>
+</configs>

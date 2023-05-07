@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+noteMaze01,items,Quest - Note,,,Maze Note,,
+noteMaze01Desc,items,Quest - Note,,,Welcome to McTaco's Maze - The Goal is to get to the center of the map 0 0 - A reward awaits you - Good Luck!,,
+foodBeefTacos2,items,Food,,,Ultimate Beef Taco,,
+foodBeefTacos2Desc,items,Food,,,Behold - The Ultimate Taco - The only one of its kind,,

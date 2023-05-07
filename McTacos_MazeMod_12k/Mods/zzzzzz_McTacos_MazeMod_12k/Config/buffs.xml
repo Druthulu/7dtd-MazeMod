@@ -1,0 +1,25 @@
+<configs>
+	<append xpath="/buffs/buff[@name='buffStatusCheck01']/effect_group">
+		<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" buff="buffRadiation03">
+			<requirement name="InBiome" biome="8"/>
+		</triggered_effect>
+	</append>
+	<append xpath="/buffs/buff[@name='buffRadiation03']">
+		<effect_group name="Radiation">
+			<requirement name="InBiome" biome="8"/>
+				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="Damage" operation="set" value="1000"/>
+				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyStats" stat="Health" operation="subtract" value="@Damage"/>
+				<triggered_effect trigger="onSelfBuffUpdate" action="PlaySound" sound="player#painsm" play_in_head="true"/>
+		</effect_group>
+	</append>
+	<remove xpath="/buffs/buffs[@name='buffRadiation03']/effect_group/passive_effect[@name='HealthChangeOT']" />
+	<remove xpath="/buffs/buffs[@name='buffRadiation03']/effect_group/passive_effect[@name='HealthChangeOT']" />
+	<remove xpath="/buffs/buffs[@name='buffRadiation03']/effect_group/passive_effect[@name='HealthChangeOT']" />
+	<append xpath="/buffs/buff[@name='buffRadiation03']/effect_group">
+		<passive_effect name="HealthChangeOT" operation="base_subtract" duration="999,1000" value="1,1"/>
+			<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="RadiationSignal" operation="add" value="1"/>
+			<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="RadiationSignal" operation="set" value="0">
+			<requirement name="CVarCompare" cvar="RadiationSignal" operation="Equals" value="2"/>
+		</triggered_effect>
+	</append>
+</configs>
