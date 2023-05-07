@@ -5,6 +5,10 @@
         Server Side Only Mod!
         Prereq -> Clients MUST install CP48!
 
+![MazeScreenshot2](https://user-images.githubusercontent.com/50529377/236704859-584228dd-d2bb-4236-8dc7-499aa168434c.jpg)
+
+
+
     Requirements: (Server&Client)
         CompoPack 48
             Recommended to install into \AppData\Roaming\7DaysToDie\LocalPrefabs\ for less lag
@@ -42,6 +46,10 @@
 
 
     Screenshots are using SMX mods, (highly recommended)
+![MazeScreenshot1](https://user-images.githubusercontent.com/50529377/236704917-014558ee-2ac1-4633-9af8-e5e200a776dc.jpg)
+![MazeScreenshot3](https://user-images.githubusercontent.com/50529377/236704919-326a0717-bbe2-497e-9367-1aa1a7a7eb5a.jpg)
+![MazeScreenshot4](https://user-images.githubusercontent.com/50529377/236704922-d5e47281-e769-44f3-ab25-a019b713f44e.jpg)
+![MazeScreenshot10](https://user-images.githubusercontent.com/50529377/236704923-6c40f086-bcac-4103-a398-032ef1b781ec.jpg)
 
 
     World Details:
@@ -51,7 +59,10 @@
             Only CompoPack prefabs used
             No repeats, only one of each POI in the whole game
         The maze walls are Wasteland Biome
-            You will get Radidated if you try to tunnel or climb over the walls. Instant Death. So don't try to cheat.
+            ![MazeScreenshot6](https://user-images.githubusercontent.com/50529377/236704884-124afa75-9160-4336-a487-e9c350fb1655.jpg) You will get Radidated if you try to tunnel or climb over the walls. Instant Death. So don't try to cheat.
+
+![MazeScreenshot5](https://user-images.githubusercontent.com/50529377/236704876-3d76b919-7676-47db-bbfb-978bc791bef1.jpg)
+
 
     Mod Details:
         (My Mod is ServerSide Only) - Clients still need to install CompoPack48!
@@ -75,6 +86,11 @@
         Stack sizes increased
         Food is more fulfilling
         A few QoL blocks changes
+
+![MazeScreenshot7](https://user-images.githubusercontent.com/50529377/236704894-f8b47b5a-560f-4548-b833-6f1bb053eb57.jpg)
+![MazeScreenshot8](https://user-images.githubusercontent.com/50529377/236704897-a05a557d-000d-4f14-ad49-603e10902e99.jpg)
+![MazeScreenshot9](https://user-images.githubusercontent.com/50529377/236704900-943f3b2e-6339-427a-8ead-877df5857679.jpg)
+![MazeScreenshot11](https://user-images.githubusercontent.com/50529377/236704905-54bcd2a1-abba-4f1a-aeab-76625ef6183a.jpg)
 
 
     Game Recommended Settings:
@@ -111,6 +127,7 @@
             There are a few ways you can play this. Difficulty 3 (0-5) is what I normally play on. 
             However you could play at a lower difficulty and do a permadeath run. That would be a fun idea to see how far you can get. Since this type of map is more for nomad lifestyle (not base building), it woudn't be a huge loss to have to start over each run.
             You still can build bases and do everything you can in a normal playthrough.
+
 
 
     Complimentary/Recommended Mods: (Thes are all the mods I currenly use in 20.7 - Some require EAC disabled)
