@@ -1,4 +1,5 @@
 <configs>
+	<remove xpath="/items/item[@name='forgeSchematic']"/>
 	<append xpath="/items">
 		<item name="noteMaze01">
 			<property name="Extends" value="blankNoteMaster"/>

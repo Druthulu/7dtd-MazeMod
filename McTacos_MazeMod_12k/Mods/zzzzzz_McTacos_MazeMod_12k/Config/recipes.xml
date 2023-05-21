@@ -1,11 +1,6 @@
 <configs>
 	<removeattribute xpath="/recipes/recipe[@craft_area]/@craft_area"/>
-	<remove xpath="/recipes/recipe[@name='resourceClayLump']"/>
-	<remove xpath="/recipes/recipe[@name='resourceCrushedSand']"/>
-	<remove xpath="/recipes/recipe[@name='resourceRockSmall']"/>
-	<remove xpath="/recipes/recipe[@name='resourceScrapBrass']"/>
-	<remove xpath="/recipes/recipe[@name='resourceScrapIron']"/>
-	<remove xpath="/recipes/recipe[@name='resourceScrapLead']"/>
+	<remove xpath="/recipes/recipe[@name='forge']"/>
 	<set xpath="/recipes/recipe[@name]/ingredient[@name='unit_clay']/@name">resourceClayLump</set>
 	<set xpath="/recipes/recipe[@name]/ingredient[@name='unit_glass']/@name">resourceCrushedSand</set>
 	<set xpath="/recipes/recipe[@name]/ingredient[@name='unit_stone']/@name">resourceRockSmall</set>

@@ -1,4 +1,7 @@
+Fixed scrapping to Brass, Lead, etc
+
 	McTaco's Maze Challenge 12k
+		20.7
 		EAC Safe!
 		Dedicated Server Safe!
 		Server Side Only Mod!
